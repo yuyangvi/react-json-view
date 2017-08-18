@@ -11,7 +11,7 @@ const colorMap = theme => ({
     keyColor: theme.base07,
     arrayKeyColor: theme.base0C,
     objectSize: theme.base04,
-    copyToClipboard: theme.base0F,
+    copyToClipboard: theme.base0D,
     objectBorder: theme.base02,
     dataTypes: {
         boolean: theme.base0E,
