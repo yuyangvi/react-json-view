@@ -126,7 +126,7 @@ export class Clippy extends React.Component {
         return (
             <span {...rest}>
             <svg {...getIconStyle(style)}
-            viewBox="0 0 40 40"
+            viewBox="0 0 16 16"
             fill="currentColor"
             preserveAspectRatio="xMidYMid meet"
             >
