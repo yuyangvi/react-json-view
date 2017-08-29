@@ -27,7 +27,7 @@ export default {
   keyValPaddingTop: '3px',
   keyValPaddingBottom: '3px',
   keyValPaddingRight: '5px',
-  keyValBorderLeft: '1px solid',
+  keyValBorderLeft: 'none',
   keyValBorderHover: '2px solid',
   keyValPaddingHover: '3px 5px 3px 4px',
 
