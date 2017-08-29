@@ -24,12 +24,12 @@ export default {
   keyOpacity: '0.85',
   keyOpacityHover: '1',
 
-  keyValPaddingTop: '3px',
-  keyValPaddingBottom: '3px',
+  keyValPaddingTop: '0px',
+  keyValPaddingBottom: '0px',
   keyValPaddingRight: '5px',
   keyValBorderLeft: 'none',
   keyValBorderHover: '2px solid',
-  keyValPaddingHover: '3px 5px 3px 4px',
+  keyValPaddingHover: '0px 5px 0px 4px',
 
   pushedContentMarginLeft: '6px',
 
