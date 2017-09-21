@@ -60,7 +60,7 @@ export default {
   datatypeOpacity: '0.8',
 
   objectSizeBorderRadius: '3px',
-  objectSizeFontStyle: 'italic',
+  objectSizeFontStyle: 'normal',
   objectSizeMargin: '0px 6px 0px 0px',
 
   clipboardCursor: 'pointer',
